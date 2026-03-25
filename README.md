@@ -15,10 +15,14 @@ As of March 20, 2026, the **Programming Spacetime Emergence** framework has been
 This repository leverages the **Self-Auditing Registry (SAR)** to manage crystallized autonomous skills.
 - **[Transfer Learning](SKILL_transfer_learning.md)**: Cross-domain knowledge application.
 - **[Universal Problem Solving](SKILL_universal_problem_solving.md)**: Systematic decomposition of novel problems.
+- **[Metric Tensor Computation](SKILL_metric_tensor_computation.md)**: Hessian-based emergent gravity ($R^2 \approx 0.95$).
 - **[Ribbon Filter Optimization](SKILL_ribbon_filter_optimization.md)**: Memory-efficient indexing ($O(1)$ access).
 - **[Algebraic Resource Control](SKILL_algebraic_resource_control.md)**: Lie Algebra based flow control for entanglement batteries.
 
-## 🧪 Prototypes & Verification
+## 🧪 Functional Prototypes & Verification
+- `simulate_metric_emergence.py`: Computes $g^{\mu\nu}$ as the Hessian of entropy and verifies curvature correlation.
+- `entanglement_battery_simulator.py`: Models reversible SE recovery via Wei-Norman flow control.
+- `qec_smoothing_prototype.py`: Implements recursive suffix smoothing for noise-robust QEC selection.
 - `verify_thales_stability.py`: Simulates entanglement deficit ($\delta > 0$) thresholds for spacetime bridge stability.
 - `benchmark_ribbon_filters.py`: Performance benchmarks for the Ribbon Filter indexing system.
 
